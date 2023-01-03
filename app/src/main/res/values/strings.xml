@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Clap</string>
+    <string name="pause_player">Pause Player</string>
+    <string name="done_playing">Done Playing</string>
+    <string name="play_player">Play Player</string>
+</resources>
